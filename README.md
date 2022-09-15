@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ebasto
-- 👀 I’m interested in what arises
-- 🌱 I’m currently learning what is needed
-- 💞️ I’m looking to collaborate on what is needed
-- 📫 How to reach me: ea.basto@gmail.com
+- Hi, I’m Edgar
+- I'm building a computational pipeline :)
+- How to reach me: ea.basto@gmail.com
 
 <!---
 ebasto/ebasto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
