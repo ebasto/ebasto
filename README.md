@@ -1,5 +1,6 @@
 - Hi, I’m Edgar
-- I'm building a computational pipeline :)
+- I've built computational pipelines
+- Also building something new :)
 
 <!---
 ebasto/ebasto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
